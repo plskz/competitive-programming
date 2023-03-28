@@ -10,10 +10,10 @@
 
 ### Languages I Use:
 
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](http://www.cplusplus.org) 
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](http://www.cplusplus.org)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) 
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 ## Coding Challenge Websites
 
@@ -36,28 +36,28 @@
 - [HackerRank](https://www.hackerrank.com/)
 - [icpc.global](https://icpc.global/)
 - [csacademy](https://csacademy.com)
-- [codeabbey](https://www.codeabbey.com)
 - [vjudge](https://vjudge.net)
 - [Meta Hacker Cup](https://www.facebook.com/hackercup/)
 - [Advent of Code](https://adventofcode.com/)
 - [oj.uz](https://oj.uz/)
 - [Timus Online Judge](https://acm.timus.ru)
-- [binarysearch](https://binarysearch.com)
 
 ## Resources:
 
 ### Learn
 
+- [Computer Science Learning Path | FrontendMasters](https://frontendmasters.com/learn/computer-science/)
 - [USACO Guide](https://usaco.guide/)
 - [A Visual Introduction to Algorithms](https://www.educative.io/courses/visual-introduction-to-algorithms)
 - [A&DS by Pavel Mavrin](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
-- [C++ Cheat Sheets](https://hackingcpp.com/cpp/cheat_sheets.html)
 
 ### Books
 
 - [Competitive Programmer’s Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf)
 - [C++ Notes for Professionals book](https://books.goalkicker.com/CPlusPlusBook/)
 - [Algorithms Notes for Professionals book](https://books.goalkicker.com/AlgorithmsBook/)
+- [JavaScript Data Structures and Algorithms by Sammie Bae](https://www.amazon.com/JavaScript-Data-Structures-Algorithms-Understanding/dp/1484239873)
+- [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
 
 ### Blogs
 
@@ -80,3 +80,9 @@
 - [cfviz](https://cfviz.netlify.app/)
 - [Dynamic A2OJ](https://a2oj.herokuapp.com/)
 - [StopStalk](https://www.stopstalk.com/)
+
+### Useful
+
+- [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!)](https://www.bigocheatsheet.com/)
+- [The Modern JavaScript Tutorial - https://javascript.info/](https://javascript.info/)
+- [C++ Cheat Sheets](https://hackingcpp.com/cpp/cheat_sheets.html)
