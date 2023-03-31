@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/longest-continuous-increasing-subsequence/solutions/3359434/javascript-typescript-solution/
 
+// Solution 1
 function findLengthOfLCIS(nums: number[]): number {
   let cur = 1;
   let ans = 1;
@@ -42,7 +43,7 @@ function findLengthOfLCIS(nums: number[]): number {
 
 // cur=2, ans=3
 
-// using DP
+// Solution 2: using DP
 function findLengthOfLCIS2(nums: number[]): number {
   const dp = new Array(nums.length).fill(1);
 

@@ -1,10 +1,11 @@
+// Solution 1
 function isPalindrome(s: string): boolean {
   let str = s.replace(/[^a-z0-9]/gi, '').toLowerCase();
 
   return str === str.split('').reverse().join('');
 }
 
-// using two pointers
+// Solution 2: using two pointers
 function isPalindrome2(s: string): boolean {
   let str = s.replace(/[^a-z0-9]/gi, '').toLowerCase();
 
@@ -13,6 +14,7 @@ function isPalindrome2(s: string): boolean {
 
   while (l < r) {
     if (str[l] !== str[r]) return false;
+    l++, r--;
   }
   return true;
 }

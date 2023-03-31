@@ -1,3 +1,4 @@
+// Solution 1
 function subtractProductAndSum(n: number): number {
   let sum = 0, product = 1;
 
@@ -11,6 +12,7 @@ function subtractProductAndSum(n: number): number {
   return product - sum;
 }
 
+// Solution 2
 function subtractProductAndSum2(n: number): number {
   //   let x = Array.from(String(n), Number);
   let x = String(n).split('').map(Number); // same above
